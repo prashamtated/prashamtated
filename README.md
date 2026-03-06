@@ -94,8 +94,8 @@
 ## :rocket: GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashamtated&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prasham's GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=prashamtated&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashamtated&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prasham's GitHub Stats" height="170"/>
+  <img src="https://streak-stats.vercel.app?user=prashamtated&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
