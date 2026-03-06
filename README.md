@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prasham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer+%7C+Since+2012;Platform+Engineering+%7C+SRE+%7C+Cloud+Architect;CKA+%7C+CKAD+%7C+AWS+Certified;Automate+everything%2C+deploy+fearlessly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer+%7C+In+IT+Since+2012;Platform+Engineering+%7C+SRE+%7C+Cloud+Architect;CKA+%7C+CKAD+%7C+AWS+Certified;Automate+everything%2C+deploy+fearlessly." alt="Typing SVG" />
 </p>
 
 - :cloud: I'm currently working as a **DevOps Expert** at **Amdocs**, Cyprus
@@ -60,7 +60,7 @@
 
 <br>
 
-### :office: Professional Journey — Since 2012
+### :office: Professional Journey — Working in IT Industry from 2012
 
 | Role | Company | Location | Period |
 |------|---------|----------|--------|
